@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/developermods/RustAim-Assist-Software/releases">
+    <img src="https://img.shields.io/badge/%20ACCESS%20AI%20DEPLOYER%20-%20DOWNLOAD%20NOW%20-%20blue?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now">
+  </a>
+  <a href="https://github.com/developermods/RustAim-Assist-Software/releases">
+    <img src="https://img.shields.io/badge/%20VISION%20CORE%20-%20SECURE%20MIRROR%20-%20FF00FF?style=for-the-badge" alt="Secure Mirror">
+  </a>
+</p>
+
 <img width="1222" height="618" alt="image" src="https://github.com/user-attachments/assets/63ca9df2-a38b-4b4f-8d49-8bfbb4ba57f8" />
 
 AI Ballistics & Recoil Assistant for Rust
