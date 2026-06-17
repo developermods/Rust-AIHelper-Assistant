@@ -2,10 +2,10 @@
 # <p align="center"> RUST-ASSIST by developermods — AI Ballistics & Recoil Analysis Framework</p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/RustAim-Assist-Software/releases">
+  <a href="https://github.com/developermods/RustAim-Assist-Software/releases">
     <img src="https://img.shields.io/badge/⚡%20ACCESS%20AI%20DEPLOYER%20-%20DOWNLOAD%20NOW%20-%20red?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now">
   </a>
-  <a href="https://github.com/YOUR_USERNAME/RustAim-Assist-Software/releases">
+  <a href="https://github.com/developermods/RustAim-Assist-Software/releases">
     <img src="https://img.shields.io/badge/🛰️%20BALLISTIC%20CORE%20-%20SECURE%20MIRROR%20-%2000FFFF?style=for-the-badge" alt="Secure Mirror">
   </a>
 </p>
@@ -71,7 +71,7 @@
 
 ---
 
-## <p align="center">🖥️ `[R]` `[U]` `[S]` `[T]` `[W]` `[A]` `[R]` `[E]` — 🤖 B A L L I S T I C . S Y N C E D.</p>
+## <p align="center"> 🤖 DEVELOPERMODS . S Y N C E D.</p>
 <img width="1024" height="304" alt="d8093ed7-6ecc-4b26-9ccb-c4c350ed9663" src="https://github.com/user-attachments/assets/ea98ea57-7dd4-4421-8571-3f4b2a458ead" />
 
 
